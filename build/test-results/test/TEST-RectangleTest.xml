@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-07-18T15:41:55" hostname="user-Lenovo-ideapad-110-15IBR" time="0.031">
+  <properties/>
+  <testcase name="isSquare_allSidesEqual_true" classname="RectangleTest" time="0.006"/>
+  <testcase name="newRectangle_getsHeight_2" classname="RectangleTest" time="0.001"/>
+  <testcase name="newRectangle_instantiatesCorrectly" classname="RectangleTest" time="0.003"/>
+  <testcase name="getWidth_getsRectangleWidth_4" classname="RectangleTest" time="0.001"/>
+  <testcase name="isSquare_whenNotASquare_false" classname="RectangleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
